@@ -36,8 +36,11 @@ I'm passionate about crafting elegant solutions to complex problems. With a keen
 
 ## Stats
 
-[![Adeel's GitHub stats]([![Adeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdeelCyber&show_icons=true&count_private=true)](https://github.com/AdeelCyber)
-)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdeelCyber&show_icons=true&theme=radical) 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdeelCyber&count_private=true&layout=donut-vertical)](https://github.com/AdeelCyber/github-readme-stats) 
+
 ## Get in Touch
 
 Feel free to reach out to me for collaboration, ideas, or just to say hello! I'm always open to interesting discussions and new opportunities.
