@@ -1,48 +1,29 @@
-
-
-<!--
-**AdeelCyber/AdeelCyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi there, I'm Adeel Cyber! 👋
 
-Welcome to my GitHub profile! I'm a software developer who loves building complete projects following the SDLC. My backend expertise lies in Django, while I create dynamic frontends using React and React Native. I'm proficient in a variety of programming languages, including Python, Java, C++, C, Dart, JavaScript, and more.
-
-![Profile Views](https://komarev.com/ghpvc/?username=AdeelCyber)
-
-## Contact Me
-
-📞 Phone: 03485667881 
-📧 Email: adil.raja7943@gmail.com
-💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/[your-linkedin-profile]](https://www.linkedin.com/in/adeel-ahmed-0260a919b))
+<p align="center">
+  <a href="mailto:adil.raja7943@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-adeelcyber%40example.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="tel:+923485667881"><img alt="Phone" src="https://img.shields.io/badge/Phone-(123)%20456--7890-blue?style=flat-square"></a>
+  <a href="https://wa.me/923485667881"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Chat-green?style=flat-square&logo=whatsapp"></a>
+</p>
 
 ## About Me
 
-I'm passionate about crafting elegant solutions to complex problems. With a keen eye for detail and a drive for excellence, I strive to deliver high-quality software that makes a difference.
+I'm a passionate developer who loves diving into the world of cybersecurity and coding. My interests range from ethical hacking to creating robust software solutions. I enjoy learning and sharing my knowledge with others in the tech community. When I'm not coding, you can find me exploring the latest security trends or enjoying a good cup of coffee.
 
-<!-- Add more project sections as needed -->
+## GitHub Stats
 
-<!-- Add more badges as needed -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdeelCyber&show_icons=true&count_private=true&theme=dark)
 
-## Stats
+## My Projects
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdeelCyber&show_icons=true&theme=radical) 
+Here are some highlights from my private repositories:
 
+- Total Commits: ![Total Commits](https://img.shields.io/github/commit-activity/m/AdeelCyber/AdeelCyber?style=flat-square)
+- Total Issues Solved: ![Total Issues Solved](https://img.shields.io/github/issues-closed/AdeelCyber/AdeelCyber?style=flat-square)
+- Total PRs Merged: ![Total PRs Merged](https://img.shields.io/github/issues-pr-closed/AdeelCyber/AdeelCyber?style=flat-square)
+- Most Used Language: ![Most Used Language](https://img.shields.io/github/languages/top/AdeelCyber/AdeelCyber?style=flat-square)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdeelCyber&count_private=true&layout=donut-vertical)](https://github.com/AdeelCyber/github-readme-stats) 
+Feel free to reach out to me via email or phone. I'm always excited to collaborate and connect with fellow developers and cybersecurity enthusiasts.
 
-## Get in Touch
+Let's connect and create amazing things together!
 
-Feel free to reach out to me for collaboration, ideas, or just to say hello! I'm always open to interesting discussions and new opportunities.
-
-Happy coding! 👨‍💻🚀
