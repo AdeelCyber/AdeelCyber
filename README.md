@@ -16,7 +16,6 @@ I'm a passionate developer who loves diving into the world of cybersecurity and 
 
 ## My Projects
 
-Here are some highlights from my private repositories:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdeelCyber&count_private=true&layout=donut-vertical)](https://github.com/AdeelCyber/github-readme-stats) 
 
 
