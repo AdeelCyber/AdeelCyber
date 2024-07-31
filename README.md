@@ -21,10 +21,10 @@ I'm a passionate developer who loves diving into the world of cybersecurity and 
 
 ## Get in Touch
 
-Feel free to reach out to me for collaboration, ideas, or just to say hello! I'm always open to interesting discussions and new opportunities.
+Available for collaboration, ideas, or just to say hello! I'm always open to interesting discussions and new opportunities.
 
 Happy coding! 👨‍💻🚀
 
-Feel free to reach out to me via email or phone. I'm always excited to collaborate and connect with fellow developers and cybersecurity enthusiasts.
+Feel free to reach out to me via email or phone. I'm always excited to collaborate and connect with fellow developers driven by passion.
 
 Let's connect and create amazing things together!
