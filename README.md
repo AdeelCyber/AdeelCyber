@@ -18,9 +18,7 @@
 
 I'm a passionate developer who loves diving into the world of cybersecurity and coding. My interests range from ethical hacking to creating robust software solutions. I enjoy learning and sharing my knowledge with others in the tech community. When I'm not coding, you can find me exploring the latest security trends or enjoying a good cup of coffee.
 
-## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdeelCyber&show_icons=true&count_private=true&theme=dark)
 
 ## My Projects
 
