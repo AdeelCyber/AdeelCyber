@@ -30,7 +30,7 @@ I'm a passionate developer who loves diving into the world of cybersecurity and 
 <h4>PHP</h4>
 <h4>Laravel</h4>
 <h4>JavaScript</h4>
-<h4>Tailwinf</h4>
+<h4>Tailwind CSS</h4>
 <h4>Antd</h4>
 
 
