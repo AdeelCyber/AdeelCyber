@@ -1,8 +1,8 @@
- Hi there, I'm 
+ <p align="center">Hi there, I'm </p>
 <p align="center">
   <a href="https://adeelcyber.vercel.app/"><img alt="WhatsApp" src="https://adeelcyber.vercel.app/static/media/darkNameLogo.3813124ec3f3f8d9629a.png"></a>
 </p>
-<p align="right">
+<p align="right" size="small">
   Click on the logo to see my portfolio
 </p>
 
