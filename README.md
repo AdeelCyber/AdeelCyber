@@ -20,9 +20,20 @@ I'm a passionate developer who loves diving into the world of cybersecurity and 
 
 
 
-## My Projects
+##  Languages & Frameworks
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdeelCyber&count_private=true&layout=donut-vertical)](https://github.com/AdeelCyber/github-readme-stats) 
+<h4>Django Python</h4>
+<h4>ReactJs</h4>
+<h4>ViteJs</h4>
+<h4>NodeJs</h4>
+<h4>PostgreSQL</h4>
+<h4>PHP</h4>
+<h4>Laravel</h4>
+<h4>JavaScript</h4>
+<h4>Tailwinf</h4>
+<h4>Antd</h4>
+
+
 
 
 ## Get in Touch
