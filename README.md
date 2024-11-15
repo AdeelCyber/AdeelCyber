@@ -16,7 +16,10 @@
 
 ## About Me
 
-I'm a passionate developer who loves diving into the world of cybersecurity and coding. My interests range from ethical hacking to creating robust software solutions. I enjoy learning and sharing my knowledge with others in the tech community. When I'm not coding, you can find me exploring the latest security trends or enjoying a good cup of coffee.
+As a Full Stack Developer at The Orange Club Digital Agency, my journey post-graduation from Capital University of Science & Technology has been about creating impactful digital products. Leveraging a Bachelor of Science in Computer Software Engineering, I apply agile methodologies to tackle complex challenges, always aiming for excellence in user experience and system functionality.
+
+A strong foundation in both front-end and back-end technologies allows me to develop comprehensive solutions. My skills are not just technical; they reflect a commitment to continuous learning and skill development, ensuring that the solutions we deliver are not only innovative but also sustainable and forward-thinking.
+When I'm not coding, you can find me exploring the latest technology trends or enjoying a good cup of coffee.
 
 
 
