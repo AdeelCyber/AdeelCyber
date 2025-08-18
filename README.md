@@ -7,37 +7,34 @@
 </6>
 
 
-<p align="center">
-  <a href="mailto:adeelcyber077@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-adeelcyber077%40gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="tel:+923485667881"><img alt="Phone" src="https://img.shields.io/badge/Phone-(0348)%205667881-blue?style=flat-square"></a>
-  <a href="https://wa.me/923485667881"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Chat-green?style=flat-square&logo=whatsapp"></a>
-</p>
+💻 **Full-Stack Developer** | Django • ReactJS • React Native • Expo • Vite  
+🌍 Based in Pakistan | Open to **Remote Opportunities**
 
+---
 
-## About Me
+## 🚀 About Me
+- 🛠️ 4+ years of professional experience in **backend (Django, DRF)** and **frontend (React, React Native, Vite)**  
+- 🌐 Built and deployed **scalable web & mobile applications** for startups and businesses  
+- 📱 Skilled in creating **cross-platform apps** with Expo & React Native  
+- ⚡ Strong focus on **performance, clean architecture, and user experience**  
+- 🔗 Actively looking for **remote roles** in dynamic teams  
 
-As a Full Stack Developer at The Orange Club Digital Agency, my journey post-graduation from Capital University of Science & Technology has been about creating impactful digital products. Leveraging a Bachelor of Science in Computer Software Engineering, I apply agile methodologies to tackle complex challenges, always aiming for excellence in user experience and system functionality.
+---
 
-A strong foundation in both front-end and back-end technologies allows me to develop comprehensive solutions. My skills are not just technical; they reflect a commitment to continuous learning and skill development, ensuring that the solutions we deliver are not only innovative but also sustainable and forward-thinking.
-When I'm not coding, you can find me exploring the latest technology trends or enjoying a good cup of coffee.
+## 🧰 Tech Stack
+- **Backend:** Django, Django REST Framework, PostgreSQL, MySQL  
+- **Frontend:** React, Vite, TailwindCSS, Redux  
+- **Mobile:** React Native, Expo CLI  
+- **DevOps / Tools:** Git, Docker, CI/CD, Firebase, Railway, Render  
+- **Other:** REST APIs, GraphQL, Socket.io, JWT/Auth  
 
+---
 
+## 📊 GitHub Stats
+![Adeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=adeelcyber&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adeelcyber&layout=compact&theme=radical)
 
-##  Languages & Frameworks
-
-<h4>Django Python</h4>
-<h4>ReactJs</h4>
-<h4>ViteJs</h4>
-<h4>NodeJs</h4>
-<h4>PostgreSQL</h4>
-<h4>PHP</h4>
-<h4>Laravel</h4>
-<h4>JavaScript</h4>
-<h4>Tailwind CSS</h4>
-<h4>Antd</h4>
-
-
-
+---
 
 ## Get in Touch
 
