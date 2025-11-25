@@ -22,11 +22,11 @@
 ---
 
 ## 🧰 Tech Stack
-- **Backend:** Django, Django REST Framework, PostgreSQL, MySQL  
+- **Backend:** Django, Django REST Framework, NodeJs, Laravel, Flask PostgreSQL, MySQL  
 - **Frontend:** React, Vite, TailwindCSS, Redux  
-- **Mobile:** React Native, Expo CLI  
+- **Mobile:** React Native, Expo CLI, Java Native and Kotlin
 - **DevOps / Tools:** Git, Docker, CI/CD, Firebase, Railway, Render  
-- **Other:** REST APIs, GraphQL, Socket.io, JWT/Auth  
+- **Other:** REST APIs, GraphQL, Socket.io, JWT/Auth, Terraform 
 
 ---
 
