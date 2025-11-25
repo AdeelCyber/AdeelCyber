@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 About Me
-- 🛠️ 4+ years of professional experience in **backend (Django, DRF)** and **frontend (React, React Native, Vite)**  
+- 🛠️ 6+ years of professional experience in **backend (Django, DRF)** and **frontend (React, React Native, Vite)**  
 - 🌐 Built and deployed **scalable web & mobile applications** for startups and businesses  
 - 📱 Skilled in creating **cross-platform apps** with Expo & React Native  
 - ⚡ Strong focus on **performance, clean architecture, and user experience**  
