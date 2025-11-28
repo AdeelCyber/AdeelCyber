@@ -30,12 +30,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Adeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=adeelcyber&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adeelcyber&layout=compact&theme=radical)
-
----
-
 ## Get in Touch
 
 Available for collaboration, ideas, or just to say hello! I'm always open to interesting discussions and new opportunities.
