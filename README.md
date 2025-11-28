@@ -7,13 +7,13 @@
 </6>
 
 
-💻 **Full-Stack Developer** | Django • ReactJS • React Native • Expo • Vite  
+💻 **Full-Stack Developer** | Django • ReactJS • React Native • Expo • Vite • Node.Js • Express.Js • Vue.Js • n9n Automations  
 🌍 Based in Pakistan | Open to **Remote Opportunities**
 
 ---
 
 ## 🚀 About Me
-- 🛠️ 6+ years of professional experience in **backend (Django, DRF)** and **frontend (React, React Native, Vite)**  
+- 🛠️ 6+ years of professional experience in **backend (Django, Node.Js, Express.Js)** and **frontend (React, React Native, Vite.Js, Vue.Js)**  
 - 🌐 Built and deployed **scalable web & mobile applications** for startups and businesses  
 - 📱 Skilled in creating **cross-platform apps** with Expo & React Native  
 - ⚡ Strong focus on **performance, clean architecture, and user experience**  
@@ -22,8 +22,8 @@
 ---
 
 ## 🧰 Tech Stack
-- **Backend:** Django, Django REST Framework, NodeJs, Laravel, Flask PostgreSQL, MySQL  
-- **Frontend:** React, Vite, TailwindCSS, Redux  
+- **Backend:** Django, Django REST Framework, NodeJs  
+- **Frontend:** React, Vite, Vue.Js and Next.Js
 - **Mobile:** React Native, Expo CLI, Java Native and Kotlin
 - **DevOps / Tools:** Git, Docker, CI/CD, Firebase, Railway, Render  
 - **Other:** REST APIs, GraphQL, Socket.io, JWT/Auth, Terraform 
